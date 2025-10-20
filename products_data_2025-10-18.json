@@ -1,0 +1,230 @@
+{
+  "scraped_at": "2025-10-18T23:28:10.406Z",
+  "total_products": 20,
+  "products": [
+    {
+      "product_name": "Acetic acid (glacial)",
+      "linear_formula_": "CH3CO2H",
+      "cas_number_": "64-19-7",
+      "molecular_weight_": "60.05",
+      "beilstein_": "506007",
+      "mdl_number_": "MFCD00036152",
+      "unspsc_code_": "12352106",
+      "ec_index_number_": "200-580-7",
+      "nacres_": "NA.21",
+      "product_number": 100063
+    },
+    {
+      "product_name": "Acetic acid (glacial)",
+      "linear_formula_": "CH3CO2H",
+      "cas_number_": "64-19-7",
+      "molecular_weight_": "60.05",
+      "beilstein_": "506007",
+      "mdl_number_": "MFCD00036152",
+      "unspsc_code_": "12352106",
+      "ec_index_number_": "200-580-7",
+      "nacres_": "NA.21",
+      "product_number": 100063
+    },
+    {
+      "product_name": "Acetic acid",
+      "linear_formula_": "CH3CO2H",
+      "cas_number_": "64-19-7",
+      "molecular_weight_": "60.05",
+      "beilstein_": "506007",
+      "mdl_number_": "MFCD00036152",
+      "unspsc_code_": "12352106",
+      "e_number_": "E260",
+      "ec_index_number_": "200-580-7",
+      "product_number": 100056
+    },
+    {
+      "product_name": "Acetone",
+      "linear_formula_": "CH3COCH3",
+      "cas_number_": "67-64-1",
+      "molecular_weight_": "58.08",
+      "beilstein_": "635680",
+      "mdl_number_": "MFCD00008765",
+      "unspsc_code_": "12352115",
+      "ec_index_number_": "200-662-2",
+      "product_number": 100013
+    },
+    {
+      "product_name": "Acetone",
+      "linear_formula_": "CH3COCH3",
+      "cas_number_": "67-64-1",
+      "molecular_weight_": "58.08",
+      "beilstein_": "635680",
+      "mdl_number_": "MFCD00008765",
+      "unspsc_code_": "12191502",
+      "ec_index_number_": "200-662-2",
+      "nacres_": "NB.21",
+      "product_number": 100014
+    },
+    {
+      "product_name": "Acetone",
+      "linear_formula_": "CH3COCH3",
+      "cas_number_": "67-64-1",
+      "molecular_weight_": "58.08",
+      "beilstein_": "635680",
+      "mdl_number_": "MFCD00008765",
+      "unspsc_code_": "12191502",
+      "ec_index_number_": "200-662-2",
+      "nacres_": "NB.21",
+      "product_number": 100014
+    },
+    {
+      "product_name": "Acetone",
+      "linear_formula_": "CH3COCH3",
+      "cas_number_": "67-64-1",
+      "molecular_weight_": "58.08",
+      "beilstein_": "635680",
+      "mdl_number_": "MFCD00008765",
+      "unspsc_code_": "12191502",
+      "ec_index_number_": "200-662-2",
+      "nacres_": "NA.03",
+      "product_number": 100012
+    },
+    {
+      "product_name": "Acetone",
+      "linear_formula_": "CH3COCH3",
+      "cas_number_": "67-64-1",
+      "molecular_weight_": "58.08",
+      "beilstein_": "635680",
+      "mdl_number_": "MFCD00008765",
+      "unspsc_code_": "12191502",
+      "ec_index_number_": "200-662-2",
+      "nacres_": "NA.03",
+      "product_number": 100020
+    },
+    {
+      "product_name": "Acetonitrile",
+      "linear_formula_": "CH3CN",
+      "cas_number_": "75-05-8",
+      "molecular_weight_": "41.05",
+      "beilstein_": "741857",
+      "mdl_number_": "MFCD00001878",
+      "unspsc_code_": "12191502",
+      "ec_index_number_": "200-835-2",
+      "nacres_": "NA.03",
+      "product_number": 100030
+    },
+    {
+      "product_name": "Acetonitrile",
+      "linear_formula_": "CH3CN",
+      "cas_number_": "75-05-8",
+      "molecular_weight_": "41.05",
+      "beilstein_": "741857",
+      "mdl_number_": "MFCD00001878",
+      "unspsc_code_": "12191502",
+      "ec_index_number_": "200-835-2",
+      "nacres_": "NA.03",
+      "product_number": 100029
+    },
+    {
+      "product_name": "Ammonia solution",
+      "linear_formula_": "NH4OH",
+      "cas_number_": "1336-21-6",
+      "molecular_weight_": "35.05",
+      "beilstein_": "3587154",
+      "mdl_number_": "MFCD00066650",
+      "unspsc_code_": "12352402",
+      "nacres_": "NA.21",
+      "product_number": 105432
+    },
+    {
+      "product_name": "Ammonium chloride",
+      "empirical_formula_(hill_notation)_": "H4ClN",
+      "cas_number_": "12125-02-9",
+      "molecular_weight_": "53.49",
+      "mdl_number_": "MFCD00011420",
+      "unspsc_code_": "12352301",
+      "ec_index_number_": "235-186-4",
+      "nacres_": "NA.21",
+      "product_number": 101145
+    },
+    {
+      "product_name": "Ammonium dihydrogen phosphate",
+      "linear_formula_": "(NH4)H2PO4",
+      "cas_number_": "7722-76-1",
+      "molecular_weight_": "115.03",
+      "mdl_number_": "MFCD00003396",
+      "unspsc_code_": "12352301",
+      "ec_index_number_": "231-764-5",
+      "nacres_": "NA.21",
+      "product_number": 101126
+    },
+    {
+      "product_name": "Ammonium fluoride",
+      "empirical_formula_(hill_notation)_": "H4FN",
+      "cas_number_": "12125-01-8",
+      "molecular_weight_": "37.04",
+      "mdl_number_": "MFCD00011423",
+      "unspsc_code_": "12352301",
+      "ec_index_number_": "235-185-9",
+      "nacres_": "NA.21",
+      "product_number": 101164
+    },
+    {
+      "product_name": "Ammonium heptamolybdate tetrahydrate",
+      "linear_formula_": "(NH4)6Mo7O24 · 4 H2O",
+      "cas_number_": "12054-85-2",
+      "molecular_weight_": "1235.86",
+      "mdl_number_": "MFCD00167059",
+      "unspsc_code_": "12352302",
+      "ec_index_number_": "234-722-4",
+      "nacres_": "NB.21",
+      "product_number": 101180
+    },
+    {
+      "product_name": "di-Ammonium hydrogen phosphate",
+      "linear_formula_": "(NH4)2HPO4",
+      "cas_number_": "7783-28-0",
+      "molecular_weight_": "132.06",
+      "mdl_number_": "MFCD00010891",
+      "unspsc_code_": "12352301",
+      "ec_index_number_": "231-987-8",
+      "nacres_": "NA.21",
+      "product_number": 101207
+    },
+    {
+      "product_name": "Ammonium sulfate",
+      "linear_formula_": "(NH4)2SO4",
+      "cas_number_": "7783-20-2",
+      "molecular_weight_": "132.14",
+      "mdl_number_": "MFCD00003391",
+      "unspsc_code_": "12352301",
+      "ec_index_number_": "231-984-1",
+      "nacres_": "NA.21",
+      "product_number": 101217
+    },
+    {
+      "product_name": "Boric acid",
+      "linear_formula_": "H3BO3",
+      "cas_number_": "10043-35-3",
+      "molecular_weight_": "61.83",
+      "mdl_number_": "MFCD00011337",
+      "unspsc_code_": "12352301",
+      "ec_index_number_": "233-139-2",
+      "nacres_": "NA.21",
+      "product_number": 100165
+    },
+    {
+      "product_name": "Bromophenol blue",
+      "empirical_formula_(hill_notation)_": "C19H10Br4O5S",
+      "cas_number_": "115-39-9",
+      "molecular_weight_": "669.96",
+      "mdl_number_": "MFCD00005875",
+      "unspsc_code_": "12171502",
+      "ec_index_number_": "204-086-2",
+      "nacres_": "NA.21",
+      "product_number": 108122
+    },
+    {
+      "product_name": "Buffer solution",
+      "unspsc_code_": "12161705",
+      "nacres_": "NA.25",
+      "product_number": 109438
+    }
+  ]
+}
