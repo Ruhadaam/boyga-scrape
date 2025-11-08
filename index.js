@@ -1067,7 +1067,7 @@ async function scrapeProductData(page, productNumber) {
             allProducts.push(productData);
 
             // Her ürün arasında uzun bekleme (bot tespitini önlemek için)
-            await new Promise(resolve => setTimeout(resolve, 8000));
+            await new Promise(resolve => setTimeout(resolve, 30000));
         }
 
         // JSON dosyasına kaydet
